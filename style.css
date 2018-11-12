@@ -2,8 +2,10 @@ h1{
   color: white;
   background-color:blue;
   padding: 20px;
+  margin: -10px;
+  
 }
 
 body{
-  background-color:#baf6ff
+  background-color:aliceblue;
 }
