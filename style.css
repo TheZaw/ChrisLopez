@@ -1,7 +1,9 @@
 h1{
   color: white;
+  background-color:blue;
+  padding: 20px;
 }
 
 body{
-  background-color:#6ac4ef;
+  background-color:#baf6ff
 }
