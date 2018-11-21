@@ -1,2 +1,2 @@
 # welcome to my personal website
-# please be patient as i learn how to do more with CSS and HTML
+# please be patient as I learn how to do more with CSS and HTML
