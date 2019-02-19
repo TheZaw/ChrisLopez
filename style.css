@@ -9,3 +9,19 @@ h1{
 body{
   background-color:aliceblue;
 }
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px;
+}
+
+nav li {
+    display: inline;
+    border: solid;
+    border-width: 0px 1px 1px 1px;
+    margin: 0 5px 0 0;
+}
+nav li a {
+    padding: 0 10px;
+}
