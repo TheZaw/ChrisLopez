@@ -2,12 +2,12 @@ h1{
   color: white;
   background-color:blue;
   padding: 20px;
-  margin: -10px;
-  
+  margin: 0;
 }
 
 body{
   background-color:aliceblue;
+  margin: 0;
 }
 
 nav ul {
@@ -41,4 +41,13 @@ nav li a {
 
 html{
   text-align: center
+}
+
+
+footer {
+    color: white;
+    background-color:blue;
+    clear: both;
+    position: relative;
+    height: 40px;
 }
