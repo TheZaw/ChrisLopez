@@ -33,6 +33,12 @@ nav li a {
     text-decoration: none;
 }
 
+
+<!-- to see what content you want centered but for now do all -->
 #content{
   text-align: center;
+}
+
+html{
+  text-align: center
 }
