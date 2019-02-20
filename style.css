@@ -19,7 +19,7 @@ nav ul {
 nav li {
     display: inline;
     border: solid;
-    border-width: 0px 0px 0px 0px;
+    border-width: 1px 1px 1px 1px;
     margin: 0 10px 0 0;
     background-color: blue;
     border-radius: 10px 10px 10px 10px;
@@ -31,4 +31,8 @@ nav li a {
     padding: 0 10px;
     color: white;
     text-decoration: none;
+}
+
+#content{
+  text-align: center;
 }
