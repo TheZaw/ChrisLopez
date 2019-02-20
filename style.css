@@ -34,7 +34,7 @@ nav li a {
 }
 
 
-<!-- to see what content you want centered but for now do all -->
+/* to see what content you want centered but for now do all */
 #content{
   text-align: center;
 }
