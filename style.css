@@ -49,9 +49,19 @@ footer {
     clear: both;
     position: relative;
     height: 40px;
-    margin-top: 10px;
+    margin-top: 50%;
 }
 
 img.rounded-corners {
   border-radius: 50%
+}
+.left {
+  text-align: left;
+  vertical-align: center;
+  margin-top: 10%
+}
+
+.header {
+  font-weight: bold;
+  font-size: 200%;
 }
