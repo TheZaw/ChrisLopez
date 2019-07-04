@@ -51,3 +51,7 @@ footer {
     height: 40px;
     margin-top: 10px;
 }
+
+img.rounded-corners {
+  border-radius: 50%
+}
