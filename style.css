@@ -32,6 +32,9 @@ nav li a {
     text-decoration: none;
 }
 
+.selected{
+  background-color: #43668d;
+}
 
 /* to see what content you want centered but for now do all */
 #content{
@@ -49,7 +52,7 @@ footer {
     clear: both;
     position: relative;
     height: 40px;
-    margin-top: 50%;
+    margin-top: 10%;
 }
 
 img.rounded-corners {
